@@ -3,6 +3,7 @@
 
 
 body {
+    
     background-image: url(../images/dark-wallpaper.jpg.png);
     background-repeat: no-repeat;
     background-color: rgb(29, 24, 24);
@@ -16,10 +17,20 @@ header {
 
 }
 
-.headertitle {
+h1 {
+  color: aquamarine;
+} 
 
+
+
+.headertitle {
+    
+    background-image: url(../images/chef-pot-image.jpg), url(../images/Kahani.jpg), url(../images/octopus.jfif);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
     padding: 10%;
     text-align: center;
+    
 }
 
 .servicesanchor {
@@ -110,12 +121,43 @@ body {
 /*-----nav bar------*/
 
 .headertitle {
-    font-style: Montserrat;
+    font: 36px "Montserrat", sans-serif; 
     color: #f5f4f2;
 }
 
 .subheadingindex {
+    font: 40px "Montserrat", sans-serif;
     text-align: center;
     color: azure;
     padding-top: 5%;
+    text-size-adjust: 0.58;
 }
+
+.subheadingindex2 {
+    text-align: center;
+    color: azure;
+    padding-top: 5%;
+    font: 16px "Montserrat", sans-serif; 
+}
+
+/* three images sidebar */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .navcontact {
+    padding-left: 2%;
+  }
+
+  /* three images sidebar */ 
+
+  
