@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 
 body {
   background-image: url(../images/ocean1.jpg);
 }
 
 .pagetitle {
-  font-family: "Montserrat";
+  font-family: 'Square Peg', cursive;
+  font-size: 80px;
   color: aliceblue;
   padding-top: 5% ;
   padding-bottom: 2%;
@@ -23,27 +24,36 @@ body {
   
 }
 
+.homescreentext1 {
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  font-size: 50px;
+}
 
-
-body {
-  font-family: "Montserrat";
-  font-weight: 400;
-  background-color: #ededed;
+.homescreenPtext {
+  color: aliceblue;
+  padding-bottom: 15%;
+  padding-top: 1%;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  font-size: 30px;
+  
 }
 
 .footer {
   padding: 40px 0;
-  background-color: #ffffff;
+  
 }
 
 .footer .social {
   text-align: center;
-  padding-bottom: 10px;
-  color: #4b4c4d;
+  padding-bottom: 20px;
+  color: #b8ccdf;
 }
 
 .footer .social a {
-  font-size: 24px;
+  font-size: 12px;
   color: inherit;
   border: 1px solid #ccc;
   width: 40px;
