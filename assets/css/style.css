@@ -103,7 +103,7 @@ body {
 }
 
 .footer ul a {
-  color: inherit;
+  color: azure;
   text-decoration: none;
   opacity: 0.8;
 }
@@ -128,8 +128,36 @@ body {
 
 .abouth1 {
   color: azure;
+  padding-left: 5%;
 }
 
 .abouth3 {
-  
+  color: azure;
+  padding-left: 5%;
+}
+
+.aboutp {
+  color: azure;
+  font-family: 'Square Peg', cursive;
+  font-size: 46px;
+}
+
+.aboutp1 {
+  color: azure;
+  font-family: 'Square Peg', cursive;
+  font-size: 30px;
+  border:3px; 
+  border-style:solid; 
+  border-color:#5763d0; 
+  padding: 1em;
+}
+
+.aboutp2 {
+  color: azure;
+  font-family: 'Square Peg', cursive;
+  font-size: 35px;
+  border:3px; 
+  border-style:solid; 
+  border-color:#5763d0; 
+  padding: 1em;
 }
