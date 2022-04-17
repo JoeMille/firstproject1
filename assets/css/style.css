@@ -28,12 +28,49 @@ body {
 
 .homescreenPtext {
   color: aliceblue;
-  padding-bottom: 15%;
+  padding-bottom: 0%;
   padding-top: 1%;
   text-align: center;
   font-family: 'Square Peg', cursive;
   font-size: 30px;
   
+}
+
+.testimonials {
+  padding-top: 0%;
+  padding-bottom: 10%;
+  color: aliceblue;
+  font-family: 'Square Peg', cursive;
+  border:3px; 
+  border-style:solid; 
+  border-color:#1e1f2b; 
+  padding: 1em;
+  background-image: url(../images/bannerimage1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testimonials2 {
+  padding-top: 10%%;
+  color: aliceblue;
+  font-family: 'Square Peg', cursive;
+  border:3px; 
+  border-style:solid; 
+  border-color:#1e1f2b; 
+  background-image: url(../images/bannerimage1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.testimonials1 {
+
+  padding-top: 0%;
+  color: aliceblue;
+  font-family: 'Square Peg', cursive;
+  border:3px; 
+  text-align: center;
+
 }
 
 .topnav {
