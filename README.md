@@ -4,53 +4,24 @@ This is a website for recruiting temporary chef hire in the Southern English Coa
 
 ## Description
 
-This website was 
+This website was built as a false page for a fictional recruitment company based in the South of England. 
+Having been a client for multiple Hospitality Staffing agencies for large restaurants and Hotels, the idea for the 
+project was to create a page that quickly communicated it's intent and services without want for further explanation.
 
-## Getting Started
+The Home Page features a basic landing page with a background image and title, allowing navigation
+to the other site pages. 
 
-### Dependencies
+The About Page contains a few short descriptive paragraphs about the services provided by the fictional Coastal Chef Project.
+With there being thousands of potential recruitment agencies catering to the hospitality trade, use of brief and concise text 
+rather than long paragraphs filled with boiler plate information on the trade was added. 
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Joe Miller  
+ChefJoeMiller1992@gmail.com
 
 ## Acknowledgments
 
