@@ -64,14 +64,15 @@ body {
 }
 
 .footer {
-  padding: 40px 0;
   
+  
+  padding: 40px 0;
 }
 
 .footer .social {
   text-align: center;
   padding-bottom: 20px;
-  color: #b8ccdf;
+  color: #d51d1d;
 }
 
 .footer .social a {
@@ -80,12 +81,13 @@ body {
   border: 1px solid #ccc;
   width: 40px;
   height: 40px;
+  opacity: 0.50;
   line-height: 38px;
   display: inline-block;
   text-align: center;
   border-radius: 50%;
   margin: 0 8px;
-  opacity: 0.75;
+  
 }
 
 .footer .social a:hover {
@@ -147,20 +149,24 @@ body {
 }
 
 .aboutp1 {
+  background-image: url(../images/michelin-food.jpg);
+  background-repeat :repeat;
+  opacity:; 
   text-align: center;
-  color:#cbecef;
+  color:#282b3d;
   font-family: 'Square Peg', cursive;
   font-size: 30px;
   font-weight: bold;
   border:3px; 
   border-style:solid; 
-  border-color:#5763d0; 
+  border-color:#1e1f2b; 
   padding: 1em;
 }
 
 .aboutp2 {
-  text-align: center;
+  text-align: left;
   color: azure;
+  
   font-family: 'Square Peg', cursive;
   font-size: 30px;
   border:3px; 
