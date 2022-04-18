@@ -17,6 +17,14 @@ body {
   background-image: url(../images/bouillabaisse2.webp);
 }
 
+.servicesheadingtext 
+{
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  font-size: 50px;
+  padding-top: 2%;
+}
 
 .homescreentext1 {
   color: aliceblue;
@@ -109,7 +117,7 @@ body {
 .footer .social {
   text-align: center;
   padding-bottom: 20px;
-  color: #d51d1d;
+  color: #f8ecec;
 }
 
 .footer .social a {
@@ -160,7 +168,7 @@ body {
   margin-top: 15px;
   text-align: center;
   font-size: 13px;
-  color: #aaa;
+  color: rgb(251, 238, 238);
 }
 
 /*-------------About Page Styling-------*/
