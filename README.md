@@ -1,7 +1,5 @@
 ## The Coastal Chef Project
 
-![alt text](<./images/ocean-banner2.jpeg>) 
-
 This is a website for recruiting temporary chef hire in the Southern English Coastal Region.
 
 ## Description
@@ -22,13 +20,14 @@ banner and background images with CSS styling, navigation menus, headers with im
 
 Encountered many confusing fundamental mistakes all the way through the process, having to often go back over previous course material to help identify where the project was going wrong. The most basic of errors was having a less than thorough understanding of commiting work and struggling to do so effectively until reaching the final stages of site editing.
 
-Before changing file names the site was unable to accept navigating to other pages such as About and Contact, 
+Before changing file names the site was unable to accept navigating to other pages such as About and Contact, images wouldn't fit div's and sections and the text was the file standard without styling. After watching many videos on building a site from scratch in html and repeating previous exercise from the Code Institute, such as the CV mini project, commitment messages and the UX module of the course, these issues were soon resolved just in time for finishing the project.
+
+The navigation menu's and footers now work completely across all the site pgaes, the contact form borrowed from a W3 lesson on contact forms and form styling is stable and interacts with users input, the font-styles across all pages utilised from Google Fonts are coherent against background images and the text is consistent throughout the site use.
+
+The biggest challenges faced when creating this site were time-related and technical, such as getting images to fit text boxes, the padding between sections and headers, and ultimately losing work often due to lack of understanding of commit messages and using Git Templates. Starting again from scratch with code saved in external text editors and reworking whilst also doing Code Institute examples of similar errors and problems alongside the milestone project, cleared most roadblocks. Moving forward adding more interactive content, sounds and video as well as creating contact forms and menu items more clearly and consistently is priority as well as repeating exercises and problems faced throughout the process to achieve a better understanding of HTML & CSS. 
 
 
-
-
-
-## Authors
+## Author
 
 
 Joe Miller  
@@ -37,9 +36,8 @@ ChefJoeMiller1992@gmail.com
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [W3 Schools](https://www.w3schools.com/css)
+* [Code Institute](https://learn.codeinstitute.net/)
+* [Stack Overflow](https://stackoverflow.com/questions)
+* [Free Code Camp](https://www.freecodecamp.org/)
