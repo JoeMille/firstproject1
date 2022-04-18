@@ -1,5 +1,7 @@
 ## The Coastal Chef Project
 
+![alt text](<./images/ocean-banner2.jpeg>) 
+
 This is a website for recruiting temporary chef hire in the Southern English Coastal Region.
 
 ## Description
@@ -12,8 +14,17 @@ The Home Page features a basic landing page with a background image and title, a
 to the other site pages. 
 
 The About Page contains a few short descriptive paragraphs about the services provided by the fictional Coastal Chef Project.
-With there being thousands of potential recruitment agencies catering to the hospitality trade, use of brief and concise text 
+With there being thousands of potential recruitment agencies catering to the hospitality industry, use of brief and concise text 
 rather than long paragraphs filled with boiler plate information on the trade was added. 
+
+Using code from Code Institue challenges and lessons, W3 lessons and examples, and other forum resources, the final site has; 
+banner and background images with CSS styling, navigation menus, headers with images, footers with social media and home navigation links.
+
+Encountered many confusing fundamental mistakes all the way through the process, having to often go back over previous course material to help identify where the project was going wrong. The most basic of errors was having a less than thorough understanding of commiting work and struggling to do so effectively until reaching the final stages of site editing.
+
+Before changing file names the site was unable to accept navigating to other pages such as About and Contact, 
+
+
 
 
 
@@ -21,6 +32,7 @@ rather than long paragraphs filled with boiler plate information on the trade wa
 
 
 Joe Miller  
+
 ChefJoeMiller1992@gmail.com
 
 ## Acknowledgments
