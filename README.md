@@ -28,6 +28,10 @@ The biggest challenges faced when creating this site were time-related and techn
 
 The main purpose of this site is to provide the user with an easy to navigate experience to better understand what The Coastal Chef is, services provided and how to contact and book a service within the site. The former of the purposes is found in the first pages (Index, About, Services); giving short but descriptive statements, supply previous client feedback for a better understanding of services provided and level of service, and also the exact services provided with language geared towards industry users. The contact page provides a contact box allowing an easy window of communication, providing necessary answers to simple questions, supplying a query or message, and not forcing the user to have to navigate to chosen email provider and copy/paste contact information to supply a query or message. 
 
+After my first submission of this project falling short of expectations I began to try and clean up some of the code, as per my assessor's helpful advice I started by using Google Lighthouse developer tool and after re-organising my project managed to score higher and higher.
+
+![Screenshot](light-house-screenshot-1.png)
+
 
 ## Author
 
