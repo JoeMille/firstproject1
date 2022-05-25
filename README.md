@@ -20,18 +20,15 @@ banner and background images with CSS styling, navigation menus, headers with im
 
 Encountered many confusing fundamental mistakes all the way through the process, having to often go back over previous course material to help identify where the project was going wrong. The most basic of errors was having a less than thorough understanding of commiting work and struggling to do so effectively until reaching the final stages of site editing.
 
-Before changing file names the site was unable to accept navigating to other pages such as About and Contact, images wouldn't fit div's and sections and the text was the file standard without styling. After watching many videos on building a site from scratch in html and repeating previous exercise from the Code Institute, such as the CV mini project, commitment messages and the UX module of the course, these issues were soon resolved just in time for finishing the project.
-
-The navigation menu's and footers now work completely across all the site pages, the contact form borrowed from a W3 lesson on contact forms and form styling is stable and interacts with users input, the font-styles across all pages utilised from Google Fonts are coherent against background images and the text is consistent throughout the site use.
-
 The biggest challenges faced when creating this site were time-related and technical, such as getting images to fit text boxes, the padding between sections and headers, and ultimately losing work often due to lack of understanding of commit messages and using Git Templates. Starting again from scratch with code saved in external text editors and reworking whilst also doing Code Institute examples of similar errors and problems alongside the milestone project, cleared most roadblocks. Moving forward adding more interactive content, sounds and video as well as creating contact forms and menu items more clearly and consistently is priority as well as repeating exercises and problems faced throughout the process to achieve a better understanding of HTML & CSS. 
-
-The main purpose of this site is to provide the user with an easy to navigate experience to better understand what The Coastal Chef is, services provided and how to contact and book a service within the site. The former of the purposes is found in the first pages (Index, About, Services); giving short but descriptive statements, supply previous client feedback for a better understanding of services provided and level of service, and also the exact services provided with language geared towards industry users. The contact page provides a contact box allowing an easy window of communication, providing necessary answers to simple questions, supplying a query or message, and not forcing the user to have to navigate to chosen email provider and copy/paste contact information to supply a query or message. 
 
 After my first submission of this project falling short of expectations I began to try and clean up some of the code, as per my assessor's helpful advice I started by using Google Lighthouse developer tool and after re-organising my project managed to score higher and higher.
 
 ![Screenshot](light-house-screenshot-1.png)
 
+The purpose of this site is to provide an easy to navigate format for understanding the company's purpose and being able to contact and the engage with on social media links, which although don't link to any specific social pages, now work thanks to errors highlighted in my first submission. The contact form on the Contact page is now styled and although not perfect by  any means, finally links to style sheets as intended.
+
+![Screenshot](contact-form-screenshot.png)
 
 ## Author
 
