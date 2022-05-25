@@ -27,9 +27,19 @@ The purpose of this site is to provide an easy to navigate format for understand
 
 ![Screenshot](contact-form-screenshot.png)
 
+Pivotal to finally understanding a lot of the issues I had been facing on the numerous first attempts made and lost was finally learning how to commit properly, a pretty embarassing mistake that cost weeks and weeks of work that was then compressed into a far shorter than hoped window to meet project dead line. Having been simply saving changes and not committing (not noticing anything suspicious as workspace was always kept open whilst away from keyboard at work), two weeks before submission date the entire project was completely lost after an unexpected shut down. This spanner in the works along with the guidance from project assessor and hundreds of hours of youtube videos catering to user specific problems, the second attempt hopefully fulfills many of the criterias that were left empty.  
+
 The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
 
+
+
 ![Screenshot](wireframe-screenshot.png)
+
+When imagining the first submission of my very first milestone project, it was far from what was produced. Insanely basic errors like not understanding commit messages, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. After over a decade working in a completely different environment, with none but essential communication deemed necessary, even engaging on Slack and online forums with other students and tutors seemed almost an impossible mountain to climb. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
+
+![Screenshot](coastal-chef-header-image.png)
+
+
 
 ## Author
 
@@ -45,3 +55,10 @@ ChefJoeMiller1992@gmail.com
 * [Code Institute](https://learn.codeinstitute.net/)
 * [Stack Overflow](https://stackoverflow.com/questions)
 * [Free Code Camp](https://www.freecodecamp.org/)
+
+## Libraries used
+* cdn.jsdeliver.net
+* cdnjs.cloudflare.com
+* fonts.googleapis.com
+* fonts.gstatic.com
+* maxcdn.bootstrapcdn.com
