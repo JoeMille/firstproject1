@@ -27,25 +27,25 @@ After my first submission of this project falling short of expectations I began 
 
 The purpose of this site is to provide an easy to navigate format for understanding the company's purpose and being able to contact and engage with them on social media links, which although don't link to any specific social pages function properly. 
 
-![Screenshot]<img src="social-link-screenshot.png" width="800" />
+<img src="social-link-screenshot.png"/>
 
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
-![Screenshot](firstproject1/contact-form-screenshot.png)
+<img src="contact-form-screenshot.png"/>
 
 Pivotal to finally understanding a lot of the issues I had been facing on the numerous first attempts made and lost was finally learning how to commit properly a critical mistake that cost weeks and weeks of work that was then compressed into a far shorter than hoped window to meet project dead line. 
 
 The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
 
-![Screenshot](wireframe-screenshot.png)
+<img src="wireframe-screenshot.png"/>
 
 The W3c Validator was used to validate the CSS, as well as the HTML. After clearing up some of the highlighted issues in the initial submission the code runs smoothly.  
 
-![Screenshot](../firstproject1/assets/images/w3c-validator-screenshot.png)
+<img src="w3c-validator-screenshot.png"/>
 
 The code beautififying tool from codebeautify.org was used to the format the HTML which after comparing the former from the latter was a helpful tool in understainding how to better my writing in the future.
 
-![Screenshot](../firstproject1/assets/images/html-formatter-screenshot.png)
+<img src="html-formatter-screenshot.png"/>
 
 When imagining the first submission of my very first milestone project, it was far from what was produced. Insanely basic errors like not understanding commit messages, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. After over a decade working in a completely different environment, with none but essential communication deemed necessary, even engaging on Slack and online forums with other students and tutors seemed almost an impossible mountain to climb. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
 
