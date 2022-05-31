@@ -31,7 +31,7 @@ The purpose of this site is to provide an easy to navigate format for understand
 
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
-![Screenshot](../firstproject1/assets/images/contact-form-screenshot.png)
+![Screenshot](firstproject1/contact-form-screenshot.png)
 
 Pivotal to finally understanding a lot of the issues I had been facing on the numerous first attempts made and lost was finally learning how to commit properly a critical mistake that cost weeks and weeks of work that was then compressed into a far shorter than hoped window to meet project dead line. 
 
