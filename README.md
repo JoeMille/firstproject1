@@ -1,10 +1,12 @@
 ## The Coastal Chef Project
 
+![Screenshot](coastal-chef-header-image.png)
+
 This is a website for recruiting temporary chef hire in the Southern English Coastal Region.
 
 ## Description
 
-This website was built as a false page for a fictional recruitment company based in the South of England. 
+This project was built as a false page for a fictional recruitment company based in the South of England. 
 Having been a client for multiple Hospitality Staffing agencies for large restaurants and Hotels, the idea for the 
 project was to create a page that quickly communicated it's intent and services without want for further explanation.
 
@@ -35,13 +37,15 @@ Pivotal to finally understanding a lot of the issues I had been facing on the nu
 
 The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
 
-
-
 ![Screenshot](wireframe-screenshot.png)
 
-The W3c Validator was used to validate the CSS, as well as the HTML. After clearing up some of the highlighted issues in the initial submission the code runs smoothly. The spotlight tool   
+The W3c Validator was used to validate the CSS, as well as the HTML. After clearing up some of the highlighted issues in the initial submission the code runs smoothly.  
 
 ![Screenshot](w3c-validator-screenshot.png)
+
+The code beautififying tool from codebeautify.org was used to the format the HTML which after comparing the former from the latter was a helpful tool in understainding how to better my writing in the future.
+
+![Screenshot](html-formatter-screenshot.png)
 
 When imagining the first submission of my very first milestone project, it was far from what was produced. Insanely basic errors like not understanding commit messages, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. After over a decade working in a completely different environment, with none but essential communication deemed necessary, even engaging on Slack and online forums with other students and tutors seemed almost an impossible mountain to climb. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
 
@@ -63,6 +67,8 @@ ChefJoeMiller1992@gmail.com
 * [Code Institute](https://learn.codeinstitute.net/)
 * [Stack Overflow](https://stackoverflow.com/questions)
 * [Free Code Camp](https://www.freecodecamp.org/)
+* [Code Beautify] (https://codebeautify.org/)
+
 
 ## Libraries used
 * cdn.jsdeliver.net
