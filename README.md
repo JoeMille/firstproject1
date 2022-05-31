@@ -23,17 +23,25 @@ After my first submission of this project falling short of expectations I began 
 
 ![Screenshot](light-house-screenshot-1.png)
 
-The purpose of this site is to provide an easy to navigate format for understanding the company's purpose and being able to contact and the engage with on social media links, which although don't link to any specific social pages, now work thanks to errors highlighted in my first submission. The contact form on the Contact page is now styled and although not perfect by  any means, finally links to style sheets as intended.
+The purpose of this site is to provide an easy to navigate format for understanding the company's purpose and being able to contact and engage with them on social media links, which although don't link to any specific social pages function properly. 
+
+![Screenshot](social-link-screenshot.png)
+
+The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
 ![Screenshot](contact-form-screenshot.png)
 
-Pivotal to finally understanding a lot of the issues I had been facing on the numerous first attempts made and lost was finally learning how to commit properly, a pretty embarassing mistake that cost weeks and weeks of work that was then compressed into a far shorter than hoped window to meet project dead line. Having been simply saving changes and not committing (not noticing anything suspicious as workspace was always kept open whilst away from keyboard at work), two weeks before submission date the entire project was completely lost after an unexpected shut down. This spanner in the works along with the guidance from project assessor and hundreds of hours of youtube videos catering to user specific problems, the second attempt hopefully fulfills many of the criterias that were left empty.  
+Pivotal to finally understanding a lot of the issues I had been facing on the numerous first attempts made and lost was finally learning how to commit properly a critical mistake that cost weeks and weeks of work that was then compressed into a far shorter than hoped window to meet project dead line. 
 
 The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
 
 
 
 ![Screenshot](wireframe-screenshot.png)
+
+The W3c Validator was used to validate the CSS, as well as the HTML. After clearing up some of the highlighted issues in the initial submission the code runs smoothly. The spotlight tool   
+
+![Screenshot](w3c-validator-screenshot.png)
 
 When imagining the first submission of my very first milestone project, it was far from what was produced. Insanely basic errors like not understanding commit messages, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. After over a decade working in a completely different environment, with none but essential communication deemed necessary, even engaging on Slack and online forums with other students and tutors seemed almost an impossible mountain to climb. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
 
