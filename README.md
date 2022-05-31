@@ -24,7 +24,7 @@ The W3c Validator was used to validate the CSS, as well as the HTML. After clear
 <img src="w3c-validator-screenshot.png"/>
 
 
-The code beautififying tool from codebeautify.org was used to the format the HTML which after comparing the former from the latter was a helpful tool in understainding how to better my writing in the future.
+The code beautifying tool from codebeautify.org was used to format the HTML which after comparing the former from latter was a helpful tool in understanding how to better my writing in the future.
 
 
 <img src="html-formatter-screenshot.png"/>
@@ -52,7 +52,7 @@ The final product was far from what had been initially planned, having removed m
 
 ## Summary
 
-When imagining the first submission of my very first milestone project, it was far from what was produced. Errors, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
+When imagining the first submission of my first milestone project, it was far from what was produced. Errors, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
 
 ![Screenshot](coastal-chef-header-image.png)
 
