@@ -27,7 +27,7 @@ After my first submission of this project falling short of expectations I began 
 
 The purpose of this site is to provide an easy to navigate format for understanding the company's purpose and being able to contact and engage with them on social media links, which although don't link to any specific social pages function properly. 
 
-![Screenshot](../firstproject1/assets/images/social-link-screenshot.png)
+![Screenshot](social-link-screenshot.png)
 
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
