@@ -35,11 +35,14 @@ As a candidate for many hospitality agencies when working free lance and tempora
 
 ## Design Choices
 
-The main purpose of the design of the website is to incorporate coastal/nautical aesthetics and provide images/fonts/icons that also embody those themes.
+The main purpose of the design of the website is to incorporate coastal/nautical aesthetics and provide images/fonts/icons that also embody those themes, as well making it crystal clear that this is a page solely directed towards hospitality candidates and employers.
 
-* The main font used is Square Peg which seemed the best fit due to it's somehwat temprary paint-brush style.
+* The main font used is Square Peg which seemed the best fit due to it's somewhat temprary paint-brush style.
+* Images used on the site all maintain a coastal style including the food images.
+* Common industry abbreviation is used in the text describing services and about sections.
+* A brief history of the owner embodies a pretty typical back story to the majority of industry operated recruitment agencies
 
-
+## Testing
 
 After my first submission of this project falling short of expectations I began to try and clean up some of the code and re-organising my project, managing to score higher and higher.
 
@@ -74,6 +77,24 @@ The final product was far from what had been initially planned, having removed m
 
 
 <img src="wireframe-screenshot.png"/>
+
+## Deployment (further)
+
+This project is available to be cloned and ammended as well as improved upon.
+
+To clone this project you will need:
+
+* Github and a Github account.
+* A working internet connection.
+
+To ammend or add to The Coastal Chef, follow these simple steps:
+
+* Sign into your Gitpod account
+* Navigate to the Coastal Chef repository.
+* Beneath the repository name, click on the "Clone" option, which will open a new Gitpod workspace.
+* Inside your terminal, type "git clone", add the Coastal Chef URL and Press Enter.
+ 
+
 
 
 ## Summary
