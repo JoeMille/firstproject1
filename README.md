@@ -1,4 +1,4 @@
-## The Coastal Chef Project
+# The Coastal Chef Project
 
 ![Screenshot](coastal-chef-header-image.png)
 
@@ -13,7 +13,33 @@ project was to create a page that quickly communicated it's intent and services 
 Using code from Code Institue challenges and lessons, W3 lessons and examples, and other forum resources, the final site has; 
 banner and background images with CSS styling, navigation menus, headers with images, footers with social media and home navigation links.
 
-The biggest challenges faced when creating this site were time-related and technical, such as getting images to fit text boxes, the padding between sections and headers, and ultimately losing work often due to lack of understanding. Starting again from scratch with code saved in external text editors and reworking whilst also doing Code Institute examples of similar errors and problems alongside the milestone project, cleared most roadblocks.  
+The biggest challenges faced when creating this site were time-related and technical, such as getting images to fit text boxes, the padding between sections and headers, and ultimately losing work often due to lack of understanding. Starting again from scratch with code saved in external text editors and reworking whilst also doing Code Institute examples of similar errors and problems alongside the milestone project, cleared most roadblocks.
+
+## User Stories
+
+As a chef of over a decade with much experience in navigating overly complex websites for hospitality recruitment, the goals of this website were:
+
+1. Provide an easy to understand platform for contact and service explanation.
+2. Have an in built contact form so no need for copying and pasting phone numbers or email addresses.
+3. Make the services provided obvious, unecessary complication of a job role makes finding the right candidate a chore.
+4. Images and background images that lightly allude to the websites purpose and fit in with the coastal aesthetic.
+5. Make sure the location and catchment area of the agency is clealry obvious so as not to invite unwanted traffic.
+
+As a candidate for many hospitality agencies when working free lance and temporary assignment, the main purposes of the Coastal Chef:
+
+1. Write service and job descriptions that are easy to communicate and understand.
+2. Make the agency location easily explained so chefs in other parts of the country don't waste time contacting or applying.
+3. Deliver an easy to navigate website that people with low computer literacy can click through and engage with.
+4. Provide images of fine-dining plates to reinforce a quality standard.
+5. Make the contact form non-specific to candidate or employer. 
+
+## Design Choices
+
+The main purpose of the design of the website is to incorporate coastal/nautical aesthetics and provide images/fonts/icons that also embody those themes.
+
+* The main font used is Square Peg which seemed the best fit due to it's somehwat temprary paint-brush style.
+
+
 
 After my first submission of this project falling short of expectations I began to try and clean up some of the code and re-organising my project, managing to score higher and higher.
 
