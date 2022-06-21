@@ -123,8 +123,7 @@ ChefJoeMiller1992@gmail.com
 
 
 ## Libraries used
-* cdn.jsdeliver.net
-* cdnjs.cloudflare.com
-* fonts.googleapis.com
-* fonts.gstatic.com
-* maxcdn.bootstrapcdn.com
+* Bootstrap
+* Font-Awesome
+* Google Fonts
+
