@@ -72,12 +72,21 @@ rather than long paragraphs filled with boiler plate information on the trade wa
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
 <img src="contact-form-screenshot.png"/>
-## Testing 
+ 
+Functionality, usabilit and responsiveness tests were carried out to make sure the site worked properly. These tests included: 
+* Testing forms to ensure all default fields were correct.
+* Checking internal links.
+* Checking social navigation links.
+* Checking the active class when navigating through the site. 
+* Making sure the main menu was available on every page.
+* Making sure the website was easy to use for it's intended audience.
+* That all content displays and aligns correctly.
+* User scrolling is easy and uninterrupted.
+* Images display and resize as needed.
 
-The below tests were carried out ot ensure the site performed as intended. 
 <img src="testing-table-screenshot.png"/>
 
-The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
+
 
 
 <img src="wireframe-screenshot.png"/>
