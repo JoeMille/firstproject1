@@ -72,8 +72,12 @@ rather than long paragraphs filled with boiler plate information on the trade wa
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
 <img src="contact-form-screenshot.png"/>
+
+Although far from how the site was initially intended to be published, the critical features are all involved and navigation throughout is easy, allowing any hospitality sector employer or candidate to find what they're looking for without any further instruction. 
+
+<img src="wireframe-screenshot.png"/>
  
-Functionality, usabilit and responsiveness tests were carried out to make sure the site worked properly. These tests included: 
+Functionality, usability and responsiveness tests were carried out to make sure the site worked properly. These tests included: 
 * Testing forms to ensure all default fields were correct.
 * Checking internal links.
 * Checking social navigation links.
@@ -86,10 +90,6 @@ Functionality, usabilit and responsiveness tests were carried out to make sure t
 
 <img src="testing-table-screenshot.png"/>
 
-
-
-
-<img src="wireframe-screenshot.png"/>
 
 ## Deployment (further)
 
