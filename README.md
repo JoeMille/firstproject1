@@ -90,6 +90,10 @@ Functionality, usability and responsiveness tests were carried out to make sure 
 
 <img src="testing-table-screenshot.png"/>
 
+### Environment Testing 
+
+Upon my first submission, pages across the site were failing to interact with stylesheet code. This led to all content being bland and without images and the back two pages having literally no styling. After realising my error, the code in the heading was changed so that all pages interacted simultaneously with the stylesheet, leading to a far superior website experience. 
+Images were then changed adding to a more pleasing aesthetic which coincided coastal and ocean themes, with pictures of food that aren't too jarring to the readers visuals.
 
 ## Deployment (further)
 
