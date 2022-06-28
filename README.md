@@ -72,7 +72,9 @@ rather than long paragraphs filled with boiler plate information on the trade wa
 The contact form was borrowed from a w3 Schools lesson on building contact boxes in HTML and CSS alone. 
 
 <img src="contact-form-screenshot.png"/>
+## Testing 
 
+The below tests were carried out ot ensure the site performed as intended. 
 <img src="testing-table-screenshot.png"/>
 
 The final product was far from what had been initially planned, having removed much of the unnecessary information from sketches, with much of the planned interactivity being past my understanding at the time of production, the site pages now all engage with their styling and some of the messy writing from first submission has either been altered or removed. 
