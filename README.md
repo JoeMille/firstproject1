@@ -116,7 +116,7 @@ To ammend or add to The Coastal Chef, follow these simple steps:
 
 ## Summary
 
-When imagining the first submission of my first milestone project, it was far from what was produced. Errors, losing work time and again, not linking stylesheet to html files, poorly chosen images and a poorly written README file as well as countless others were ample obstacles to try and overcome. Although far from what I had imagined, I'm entirely thankful to the process for highlighting just how difficult even basic web design is. From all shortcomings, errors and oversights it's shone a light on what attributes of development I'd like to become far more proficient at, and also helped me realise that if I can work as hard at development as I had to work learning to perform in my current professional domain, that I will have ample fuel to jump into this next chapter of my professional life well-equipped.   
+The final version of the website is a far cry from the original design, utilising the time made for resubmission attempts it was important to make the content easier to digest and hopefully more aesthetic to the prospective user. Improper coding practices have been removed, styling works across all pages, images used are more consistent and non-jarring to viewers. This site is designed to allow hospitality employers and candidates to navigate with ease and obtain information without need for further instruction. 
 
 ![Screenshot](coastal-chef-header-image.png)
 
